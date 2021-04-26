@@ -6,3 +6,6 @@
    src: https://e4e4.wordpress.com/basics/
        
      Fajnie ten problem tlumaczy Numberphile https://www.youtube.com/watch?v=ab_dY3dZFHM
+     
+     ![image](https://user-images.githubusercontent.com/23016118/116068873-03d6b600-a68b-11eb-8302-b8169c42442b.png)
+
